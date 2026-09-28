@@ -24,8 +24,8 @@ who it applies to, and what it actually requires in practice.
 | # | Topic | Status |
 |---|-------|--------|
 | 1 | [EU AI Act — Risk Tiers & Implementation Timeline](./posts/001-eu-ai-act-risk-tiers-and-timeline.md) | ✅ Posted |
-| 2 | [NIST AI Risk Management Framework (AI RMF 1.0)](./posts/002-nist-ai-rmf.md) | ✅ Posted |
-| 3 | [ISO/IEC 42001 — AI Management System Standard](./posts/003-iso-iec-42001.md) | ✅ Posted |
+| 2 | [NIST AI Risk Management Framework (AI RMF 1.0)](./posts/002-nist-ai-risk-management-framework.md) | ✅ Posted |
+| 3 | ISO/IEC 42001 — AI Management System Standard | ⬜ Planned |
 | 4 | GDPR & AI: Automated Decision-Making (Article 22) | ⬜ Planned |
 | 5 | OECD AI Principles | ⬜ Planned |
 | 6 | Algorithmic Bias & Fairness Testing | ⬜ Planned |
